@@ -20,4 +20,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/fonts/RobotoCondensed-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RobotoCondensed-Italic.ttf \
     $(LOCAL_PATH)/fonts/RobotoCondensed-LightItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RobotoCondensed-LightItalic.ttf \
     $(LOCAL_PATH)/fonts/RobotoCondensed-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RobotoCondensed-Light.ttf \
-    $(LOCAL_PATH)/fonts/RobotoCondensed-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RobotoCondensed-Regular.ttf \
+    $(LOCAL_PATH)/fonts/RobotoCondensed-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RobotoCondensed-Regular.ttf
